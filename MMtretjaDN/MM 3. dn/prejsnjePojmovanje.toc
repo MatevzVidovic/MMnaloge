@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Konstrukcija G in JG}{2}{}%
+\contentsline {section}{\numberline {2}Prevod lažjih funkcij v \\ $F(x) : R^3 \rightarrow R, F(x) = 0$:}{3}{}%
+\contentsline {section}{\numberline {3}Testi}{4}{}%
+\contentsline {section}{\numberline {4}Koda za grafe testov}{8}{}%
+\contentsline {section}{\numberline {5}Slike testov}{11}{}%
